@@ -5,7 +5,7 @@ Various fixes and improvements for the [Messages for Web](https://messages.googl
 ## Install
 
 Click to install:
- - [messagesForWebForegroundFocus.user.js](https://github.com/yo1dog/messages-for-web-fixes/raw/master/messagesForWebForegroundFocus.user.js)
+ - [messagesForWebForegroundFocus.user.js](https://github.com/yo1dog/messages-for-web-fixes/raw/master/messagesForWebForegroundFocus.user.js) - Focus the text input on window foreground.
 
 ## Requirements
 
